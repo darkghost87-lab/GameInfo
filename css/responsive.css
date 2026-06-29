@@ -312,7 +312,7 @@ li {
         height: auto;
     }
 
-    #pic{
+    .pic{
         width: 12vw;
         height: 12vh;
     }
@@ -592,7 +592,7 @@ li {
         height: auto;
     }
 
-    #pic {
+    .pic {
         width: 12vw;
         height: 12vh;
     }
@@ -899,7 +899,7 @@ li {
         height: auto;
     }
 
-    #pic {
+    .pic {
         width: 12vw;
         height: 12vh;
     }
