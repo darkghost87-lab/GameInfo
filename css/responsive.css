@@ -854,7 +854,7 @@ li {
         font-size: 8px;
     }
 
-     /* slider */
+    /* slider */
     #head-main-tools {
         width: 90%;
         margin-top: 4rem;
@@ -870,6 +870,17 @@ li {
     .swiper-slide {
         width: 200px !important;
         height: 10rem !important;
+    }
+
+    /* === about === */
+    .div-about-developers {
+        width: 90vw;
+        height: auto;
+    }
+
+    #pic{
+        width: 12vw;
+        height: 12vh;
     }
 }
 

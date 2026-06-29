@@ -42,7 +42,7 @@ body {
 .div-about-developers {
     width: 50vw;
     position: fixed;
-    height: 45vh;
+    height: auto;
     margin: 100px auto;
     background-color: rgba(0, 0, 0, .1);
     display: flex;
@@ -57,6 +57,7 @@ body {
 
 .div-about-developers div p {
     padding-top: 20px;
+    font-size: clamp(15px , 1vw , 35px);
 }
 
 .now-skill {
@@ -75,48 +76,4 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-}
-
-/*  ======================================= footer ========================================== */
-#footer {
-    background-image: url(../img/footer.jpeg);
-    width: 100%;
-    height: auto;
-    display: flex;
-    align-items: center;
-}
-
-.footer-item {
-    display: flex;
-    flex-direction: column;
-    margin: 0px auto;
-}
-
-.footer-item .items-info {
-    display: flex;
-    flex-direction: row;
-    gap: 200px;
-}
-
-.footer-item .items-info .items-quick-access {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-.footer-item .items-info .gameInfo-info {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-}
-
-#color {
-    color: gold;
-}
-
-.h4-Copyright {
-    border-top: 1px solid white;
-    margin-top: 40px;
-    padding-top: 8px;
-    text-align: center;
 }
