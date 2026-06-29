@@ -81,33 +81,6 @@ cd GameVerse
 # 3. اجرا با Live Server (پیشنهادی)
 # اگر از VS Code استفاده می‌کنید، روی فایل index.html راست‌کلیک کرده و "Open with Live Server" را انتخاب کنید.
 ```
----
-
-## 🛠️ تکنولوژی‌های استفاده‌شده
-
-<div align="center">
-
-| تکنولوژی | نقش در پروژه |
-|----------|---------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | ساختاردهی صفحات |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | طراحی و زیباسازی |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | منطق و تعاملات کاربر |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg" width="40" height="40"/> | اسلایدرهای حرفه‌ای |
-
-</div>
-
----
-
-## 📄 صفحات پروژه
-
-| صفحه | فایل | توضیح |
-|------|------|-------|
-| 🏠 **صفحه‌ی اصلی** | `index.html` | شامل هیرو سکشن، اسلایدر بازی‌ها و بخش‌های مختلف |
-| ℹ️ **درباره‌ی ما** | `about.html` | معرفی تیم و هدف وبسایت |
-| 📋 **قوانین** | `Rules.html` | نمایش قوانین و مقررات استفاده |
-| 🔑 **ورود / ثبت‌نام** | `login.html` | صفحه‌ی لاگین برای کاربران |
-
----
 
 ## 📁 ساختار پروژه
 GameInfo/
