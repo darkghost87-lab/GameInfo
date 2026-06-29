@@ -305,6 +305,17 @@ li {
         width: 150px !important;
         height: 12rem !important;
     }
+
+    /* === about === */
+    .div-about-developers {
+        width: 90vw;
+        height: auto;
+    }
+
+    #pic{
+        width: 12vw;
+        height: 12vh;
+    }
 }
 
 @media only screen and (max-width: 767px) {
@@ -574,6 +585,16 @@ li {
     .swiper-slide {
         width: 150px !important;
         height: 12rem !important;
+    }
+
+    .div-about-developers {
+        width: 90vw;
+        height: auto;
+    }
+
+    #pic {
+        width: 12vw;
+        height: 12vh;
     }
 }
 
@@ -878,7 +899,7 @@ li {
         height: auto;
     }
 
-    #pic{
+    #pic {
         width: 12vw;
         height: 12vh;
     }
