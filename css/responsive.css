@@ -716,7 +716,7 @@ li {
     }
 
     .post-box {
-        width: 80%;
+        width: 90%;
     }
 
     .post-header-left {
@@ -724,13 +724,15 @@ li {
     }
 
     .post-box-read-more .post-box-read-more-1 {
-        width: 80px;
+        width: 65px;
         height: 2rem;
     }
 
     .post-box-read-more .post-box-read-more-2 {
         width: 120px;
         height: 2rem;
+        gap: 1px;
+        justify-content: flex-start;
     }
 
     /* ================= overlay =============== */
@@ -821,6 +823,7 @@ li {
     .post-header-right {
         justify-content: center;
         gap: 5px;
+        width: 4rem;
         height: 3rem;
     }
 
@@ -844,7 +847,7 @@ li {
     }
 
     .post-box-body p {
-        font-size: 10px;
+        font-size: 13px;
     }
 
     .info-head button {
@@ -902,6 +905,25 @@ li {
     .pic {
         width: 12vw;
         height: 12vh;
+    }
+
+    .post-box .post-title-lables{
+        width: 65px;
+        height: 1.2rem;
+    }
+
+    .post-box .post-box-read-more{
+        padding-left: 15px;
+        font-size: 9px;
+        gap: 0.2rem;
+        margin-bottom: 2rem;
+    }
+
+    .post-box-read-more-1 span{
+        font-size: 9px;
+    }
+    .post-box-read-more-2 span{
+        font-size: 8px;
     }
 }
 
